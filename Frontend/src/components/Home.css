@@ -1,0 +1,18 @@
+
+
+.reduced-size-image {
+    width: 228px; /* Fixed width */
+    height: 228px; /* Fixed height */
+    object-fit: cover; /* Ensure the image scales properly */
+  }
+  
+  .reduced-width-container {
+    width: 50%; /* Reduce width of container by 50% */
+    height: 80%;
+    margin: auto; /* Center the container */
+  }
+  
+  button:hover{
+    zoom: 90%;
+  }
+ 
